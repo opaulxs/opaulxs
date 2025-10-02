@@ -1,5 +1,6 @@
 ![banner](https://i.pinimg.com/originals/2f/22/b9/2f22b9f6227f95a26e1c537039d6a2cf.jpg)
 
+
 ## Paulo (opaulxs)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/opaulxs/)
