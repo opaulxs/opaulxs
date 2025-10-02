@@ -1,5 +1,4 @@
-
-(file:///C:/Users/Luiz%20Paulo/Downloads/banner%20homem%20no%20pc_1280_gif%20(1000%C3%97300).gif)
+![banner](https://i.pinimg.com/originals/2f/22/b9/2f22b9f6227f95a26e1c537039d6a2cf.jpg)
 
 ## Paulo (opaulxs)
 
