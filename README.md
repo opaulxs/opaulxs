@@ -1,4 +1,7 @@
-## Paulo lima (opaulxs)
+!-- Substitua o URL abaixo pelo link do seu banner -->
+![Banner](file:///C:/Users/Luiz%20Paulo/Downloads/banner%20homem%20no%20pc_1280_gif%20(1000%C3%97300).gif)
+
+## Paulo (opaulxs)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/opaulxs/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/opaulxs)
@@ -60,6 +63,10 @@ Estou desenvolvendo projetos próprios e contribuindo para desafios que me refor
 - Versionamento adequado e histórico no Git
 - Boas práticas de código limpo e refatoração contínua
 
+### Destaques (adicione seus links aqui)
+- [Projeto 1 — título curto](https://github.com/opaulxs/SEU_REPOSITORIO_1)
+- [Projeto 2 — título curto](https://github.com/opaulxs/SEU_REPOSITORIO_2)
+- [Projeto 3 — título curto](https://github.com/opaulxs/SEU_REPOSITORIO_3)
 
 ---
 
@@ -87,4 +94,11 @@ Estou desenvolvendo projetos próprios e contribuindo para desafios que me refor
 ---
 
 **Obrigado pela visita!** Vamos juntos construir algo incrível com tecnologia. 🚀
+
+
+<!-- Substitua o URL abaixo pelo link do seu GIF de café -->
+<p align="center">
+  <img src="https://example.com/seu-cafe.gif" alt="Café" width="220" />
+  
+</p>
 
