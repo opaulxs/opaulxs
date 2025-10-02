@@ -1,5 +1,3 @@
-![banner](https://i.pinimg.com/originals/2f/22/b9/2f22b9f6227f95a26e1c537039d6a2cf.jpg)
-
 
 ## Paulo (opaulxs)
 
@@ -62,13 +60,6 @@ Estou desenvolvendo projetos próprios e contribuindo para desafios que me refor
 - Aplicações modulares, usando separação de responsabilidades
 - Versionamento adequado e histórico no Git
 - Boas práticas de código limpo e refatoração contínua
-
-### Destaques (adicione seus links aqui)
-- [Projeto 1 — título curto](https://github.com/opaulxs/SEU_REPOSITORIO_1)
-- [Projeto 2 — título curto](https://github.com/opaulxs/SEU_REPOSITORIO_2)
-- [Projeto 3 — título curto](https://github.com/opaulxs/SEU_REPOSITORIO_3)
-
----
 
 ## 🎯 Objetivos profissionais
 
