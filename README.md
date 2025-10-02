@@ -1,5 +1,5 @@
-!-- Substitua o URL abaixo pelo link do seu banner -->
-![Banner](file:///C:/Users/Luiz%20Paulo/Downloads/banner%20homem%20no%20pc_1280_gif%20(1000%C3%97300).gif)
+
+(file:///C:/Users/Luiz%20Paulo/Downloads/banner%20homem%20no%20pc_1280_gif%20(1000%C3%97300).gif)
 
 ## Paulo (opaulxs)
 
