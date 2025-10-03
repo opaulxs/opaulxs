@@ -87,6 +87,7 @@ Estou desenvolvendo projetos próprios e contribuindo para desafios que me refor
 **Obrigado pela visita!** Vamos juntos construir algo incrível com tecnologia. 🚀
 
 
-![Banner](./cafe_8pixel.gif)
+<img src="cafe_8pixel.gif" width="200px">
+
 </p>
 
