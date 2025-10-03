@@ -1,6 +1,7 @@
 ![Banner](./banner.png.png)
 
 
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/opaulxs/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/opaulxs)
 
