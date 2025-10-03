@@ -6,9 +6,9 @@
 
 ---
 
-## 👋 Olá, eu sou o Paulo
+## 👋 Welcome! Let´s build something amazing.
 
-Sou um desenvolvedor em início de carreira, apaixonado por codar e criar soluções práticas. Tenho foco total na área de programação e estou construindo meu caminho profissional através de projetos, estudos e muita dedicação.
+Olá, eu sou Paulo, Sou um desenvolvedor em início de carreira, apaixonado por codar e criar soluções práticas. Tenho foco total na área de programação e estou construindo meu caminho profissional através de projetos, estudos e muita dedicação.
 
 ---
 
@@ -87,9 +87,6 @@ Estou desenvolvendo projetos próprios e contribuindo para desafios que me refor
 **Obrigado pela visita!** Vamos juntos construir algo incrível com tecnologia. 🚀
 
 
-<!-- Substitua o URL abaixo pelo link do seu GIF de café -->
-<p align="center">
-  <img src="https://example.com/seu-cafe.gif" alt="Café" width="220" />
-  
+![Banner](./cafe_8pixel.gif)
 </p>
 
