@@ -1,4 +1,3 @@
-![Banner](./Bannerpreto.png)
 
 
 
