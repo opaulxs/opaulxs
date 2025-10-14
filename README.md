@@ -1,9 +1,7 @@
 ![banner](./1760212764113.png)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/opaulxs/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/opaulxs)
-
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?logo=portfolio&logoColor=white)](https://portifoliopaulolima.vercel.app/)
 
 ---
