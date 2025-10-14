@@ -1,9 +1,10 @@
 ![banner](./1760212764113.png)
 
-
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/opaulxs/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/opaulxs)
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?logo=portfolio&logoColor=white)](https://portifoliopaulolima.vercel.app/)
 
 ---
 
@@ -29,11 +30,25 @@ Olá, eu sou Paulo, Sou um desenvolvedor em início de carreira, apaixonado por 
 ![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)
+
 ### Back‑end
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+
+### DevSecOps (Estudando)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI/CD-FCA121?logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 
 ### Banco de dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
@@ -56,13 +71,26 @@ Olá, eu sou Paulo, Sou um desenvolvedor em início de carreira, apaixonado por 
 
 Estou desenvolvendo projetos próprios e contribuindo para desafios que me reforcem:
 
+### Back-end
 - APIs REST com autenticação e rotas protegidas
 - Integração com bancos de dados relacionais e não-relacionais
 - Aplicações modulares, usando separação de responsabilidades
 - Versionamento adequado e histórico no Git
 - Boas práticas de código limpo e refatoração contínua
 
-## 🎯 Objetivos profissionais
+### Mobile
+- Aplicações multiplataforma com Flutter
+- Interfaces responsivas e intuitivas
+- Integração com APIs REST
+- Gerenciamento de estado com Provider/Bloc
+- Publicação nas stores (Google Play e App Store)
+
+### DevSecOps (Estudando)
+- Aprendendo containerização de aplicações com Docker
+- Estudos em orquestração com Kubernetes
+- CI/CD pipelines automatizados
+- Monitoramento e logging de aplicações
+- Segurança em ambientes de desenvolvimento e produção
 
 - Atuar como desenvolvedor back-end focado em aplicações escaláveis
 - Trabalhar com arquiteturas modernas e microserviços
@@ -71,6 +99,17 @@ Estou desenvolvendo projetos próprios e contribuindo para desafios que me refor
 - Continuar aprendendo, evoluindo e agregando valor às equipes
 
 ---
+
+## 🎯 Objetivos profissionais
+
+- Atuar como desenvolvedor full-stack focado em aplicações escaláveis
+- Desenvolver soluções mobile multiplataforma
+- Trabalhar com arquiteturas modernas e microserviços
+- Implementar práticas de DevSecOps em projetos
+- Contribuir para projetos open source
+- Aprimorar habilidades em testes, performance e segurança
+- Continuar aprendendo, evoluindo e agregando valor às equipes
+
 
 ## 📫 Vamos nos conectar
 
