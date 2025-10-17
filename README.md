@@ -153,23 +153,6 @@ Sou Paulo, desenvolvedor em início de carreira apaixonado por tecnologia. Com f
 <br/>
 <br/>
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img 
-      alt="GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api?username=opaulxs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-      alt="Top Languages" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=opaulxs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
-
----
-
 ## 🎯 Focos Principais
 
 **Mobile** • Aplicações multiplataforma com Flutter, interfaces responsivas e integração com APIs REST.  
