@@ -1,4 +1,4 @@
-![Banner](./Inserir um subtítulo (1).png)
+
 
 # 👨‍💻 Paulo Lima
 
