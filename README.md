@@ -1,6 +1,6 @@
 # 👨‍💻 Paulo Lima
 
-**`Desenvolvedor FullStack | Mobile | Back-end`**
+**`Desenvolvedor Mobile | Back-end`**
 
 Sou Paulo, desenvolvedor em início de carreira apaixonado por tecnologia. Com foco em **Mobile** com Flutter e **Back-end**, busco sempre aprender tecnologias modernas e boas práticas de desenvolvimento. Uso o GitHub como meu portfólio técnico e compartilho meu conhecimento através de projetos práticos e dedicação contínua.
 
