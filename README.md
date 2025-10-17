@@ -1,3 +1,5 @@
+![Banner](./Inserir um subtítulo (1).png)
+
 # 👨‍💻 Paulo Lima
 
 **`Desenvolvedor Mobile | Back-end`**
