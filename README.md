@@ -31,7 +31,7 @@ Sou Paulo, desenvolvedor em início de carreira apaixonado por tecnologia. Com f
         />
     </a>
 
-## 🤖 Linguagens
+## 🛠️ Linguagens & Tools
 
 <img 
     align="left" 
@@ -39,7 +39,7 @@ Sou Paulo, desenvolvedor em início de carreira apaixonado por tecnologia. Com f
     title="JavaScript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
 />
 
 <img 
@@ -48,7 +48,7 @@ Sou Paulo, desenvolvedor em início de carreira apaixonado por tecnologia. Com f
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
 
 <img 
@@ -57,13 +57,8 @@ Sou Paulo, desenvolvedor em início de carreira apaixonado por tecnologia. Com f
     title="Dart" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" 
 />
-
-<br/>
-<br/>
-
-## 📱 Mobile
 
 <img 
     align="left" 
@@ -71,7 +66,7 @@ Sou Paulo, desenvolvedor em início de carreira apaixonado por tecnologia. Com f
     title="Flutter" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" 
 />
 
 <img 
@@ -80,13 +75,8 @@ Sou Paulo, desenvolvedor em início de carreira apaixonado por tecnologia. Com f
     title="Android" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" 
 />
-
-<br/>
-<br/>
-
-## ⚙️ Back-end
 
 <img 
     align="left" 
@@ -94,7 +84,7 @@ Sou Paulo, desenvolvedor em início de carreira apaixonado por tecnologia. Com f
     title="Node.js" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
 />
 
 <img 
@@ -103,13 +93,8 @@ Sou Paulo, desenvolvedor em início de carreira apaixonado por tecnologia. Com f
     title="Flask"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" 
 />
-
-<br/>
-<br/>
-
-## 🔐 DevSecOps (Estudando)
 
 <img 
     align="left" 
@@ -117,7 +102,7 @@ Sou Paulo, desenvolvedor em início de carreira apaixonado por tecnologia. Com f
     title="Docker" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
 />
 
 <img 
@@ -126,7 +111,7 @@ Sou Paulo, desenvolvedor em início de carreira apaixonado por tecnologia. Com f
     title="Kubernetes"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" 
 />
 
 <img 
@@ -135,7 +120,7 @@ Sou Paulo, desenvolvedor em início de carreira apaixonado por tecnologia. Com f
     title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" 
 />
 
 <img 
@@ -144,13 +129,8 @@ Sou Paulo, desenvolvedor em início de carreira apaixonado por tecnologia. Com f
     title="Linux"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
 />
-
-<br/>
-<br/>
-
-## 📌 Versionamento
 
 <img 
     align="left" 
@@ -158,7 +138,7 @@ Sou Paulo, desenvolvedor em início de carreira apaixonado por tecnologia. Com f
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
 
 <img 
@@ -167,7 +147,7 @@ Sou Paulo, desenvolvedor em início de carreira apaixonado por tecnologia. Com f
     title="GitHub"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
 />
 
 <br/>
