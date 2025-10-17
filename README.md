@@ -114,13 +114,13 @@ Sou Paulo, desenvolvedor em início de carreira apaixonado por tecnologia. Com f
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" 
 />
 
-<img 
-    align="left" 
-    alt="AWS" 
+<img
+    align="left"
+    alt="AWS"
     title="AWS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" 
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg"
 />
 
 <img 
