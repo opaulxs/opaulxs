@@ -173,7 +173,7 @@ Sou Paulo, desenvolvedor em início de carreira apaixonado por tecnologia. Com f
 ## 🎯 Focos Principais
 
 **Mobile** • Aplicações multiplataforma com Flutter, interfaces responsivas e integração com APIs REST.  
-**Back-end** • APIs REST, autenticação, bancos de dados e código limpo com boas práticas (Estudando) 
+**Back-end** • APIs REST, autenticação, bancos de dados e código limpo com boas práticas (Estudando)
 **DevSecOps** • Docker, Kubernetes, CI/CD pipelines e segurança em ambientes de produção (Estudando)
 
 ---
