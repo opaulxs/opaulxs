@@ -2,9 +2,9 @@
 
 # 👨‍💻 Paulo Lima
 
-**`Desenvolvedor Mobile | Back-end`**
+**`Desenvolvedor Back-end | Java | Kotlin | Spring Boot`**
 
-Sou Paulo, desenvolvedor em início de carreira apaixonado por tecnologia. Com foco em **Mobile** com Flutter e **Back-end**, busco sempre aprender tecnologias modernas e boas práticas de desenvolvimento. Uso o GitHub como meu portfólio técnico e compartilho meu conhecimento através de projetos práticos e dedicação contínua.
+Sou Paulo, desenvolvedor em início de carreira apaixonado por tecnologia. Com foco em **Back-end** utilizando **Java, Kotlin e Spring Boot**, busco sempre aprender tecnologias modernas e boas práticas de desenvolvimento. Uso o GitHub como meu portfólio técnico e compartilho meu aprendizado através de projetos práticos e dedicação contínua.
 
 ---
 
@@ -37,65 +37,29 @@ Sou Paulo, desenvolvedor em início de carreira apaixonado por tecnologia. Com f
 
 <img 
     align="left" 
-    alt="JavaScript"
-    title="JavaScript" 
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Kotlin" 
+    title="Kotlin"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
 />
 
 <img 
     align="left" 
-    alt="Dart"
-    title="Dart" 
+    alt="Spring" 
+    title="Spring"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Flutter"
-    title="Flutter" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Android"
-    title="Android" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Node.js"
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Flask" 
-    title="Flask"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 
 <img 
@@ -156,8 +120,7 @@ Sou Paulo, desenvolvedor em início de carreira apaixonado por tecnologia. Com f
 <br/>
 
 ## 🎯 Focos Principais
-
-**Mobile** • Aplicações multiplataforma com Flutter, interfaces responsivas e integração com APIs REST.  
+ 
 **Back-end** • APIs REST, autenticação, bancos de dados e código limpo com boas práticas (Estudando).
 **DevSecOps** • Docker, Kubernetes, CI/CD pipelines e segurança em ambientes de produção (Estudando).
 
