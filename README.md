@@ -29,7 +29,7 @@ Sou Paulo, desenvolvedor em início de carreira apaixonado por tecnologia. Com f
         <img 
             alt="Portfolio" 
             title="Visite meu portfólio" 
-            src="https://img.shields.io/badge/-Portfolio-FF6B6B?logo=firefox&logoColor=white&style=for-the-badge"
+            src="portifolio-beta-liart-43.vercel.app"
         />
     </a>
 
