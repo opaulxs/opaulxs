@@ -51,12 +51,5 @@ Sou Paulo, estudante de Análise e Desenvolvimento de Sistemas com foco em **Seg
  
 ---
  
-## 📊 GitHub Stats
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=opaulxs&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opaulxs&layout=compact&theme=github_dark&hide_border=true)
- 
----
- 
 *"Security is a process, not a product." — Bruce Schneier*
 
