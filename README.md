@@ -1,148 +1,62 @@
-![Banner](./banner_github3.png)
-
-# 👨‍💻 Paulo Lima
-
-**`Desenvolvedor Back-end | Java | Kotlin | Spring Boot`**
-
-Sou Paulo, desenvolvedor em início de carreira apaixonado por tecnologia. Com foco em **Back-end** utilizando **Java, Kotlin e Spring Boot**, busco sempre aprender tecnologias modernas e boas práticas de desenvolvimento. Uso o GitHub como meu portfólio técnico e compartilho meu aprendizado através de projetos práticos e dedicação contínua.
-
+# 🛡️ Paulo Lima
+ 
+**`Estudante de ADS | Segurança da Informação | SOC Analyst em formação`**
+ 
+Sou Paulo, estudante de Análise e Desenvolvimento de Sistemas com foco em **Segurança da Informação**. Busco minha primeira oportunidade como Estagiário em SOC, aplicando conhecimentos em monitoramento de ameaças, análise de incidentes e resposta a eventos de segurança. Em formação pelo **Google Cybersecurity Certificate**, com habilidades práticas em Linux, redes e Python.
+ 
 ---
-
+ 
 ## 🔗 Conecte-se Comigo
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/opaulxs/">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se comigo no LinkedIn" 
-            src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"
-        />
-    </a>
-    <a href="https://github.com/opaulxs">
-        <img 
-            alt="GitHub" 
-            title="Confira meu GitHub" 
-            src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"
-        />
-    </a>
-    <a href="https://portifoliopaulolima.vercel.app/">
-        <img 
-            alt="Portfolio" 
-            title="Visite meu portfólio" 
-            src="portifolio-beta-liart-43.vercel.app"
-        />
-    </a>
-
-## 🛠️ Linguagens & Tools
-
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Kotlin" 
-    title="Kotlin"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Docker"
-    title="Docker" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Kubernetes" 
-    title="Kubernetes"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" 
-/>
-
-<img
-    align="left"
-    alt="AWS"
-    title="AWS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-/>
-
-<br/>
-<br/>
-
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/opaulxs)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/opaulxs)
+ 
+---
+ 
+## 🔧 Linguagens & Ferramentas
+ 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+ 
+---
+ 
 ## 🎯 Focos Principais
  
-**Back-end** • APIs REST, autenticação, bancos de dados e código limpo com boas práticas (Estudando).
-**DevSecOps** • Docker, Kubernetes, CI/CD pipelines e segurança em ambientes de produção (Estudando).
-
+**Blue Team / SOC** • Monitoramento de ameaças, análise de logs, resposta a incidentes e uso de ferramentas SIEM.
+ 
+**Redes & Infraestrutura** • TCP/IP, DNS, HTTP/S, Firewalls, IDS/IPS e fundamentos de segurança de redes.
+ 
+**Programação aplicada à segurança** • Python e SQL com foco em automação de análise e consulta de dados de segurança.
+ 
 ---
-
+ 
 ## 🚀 Objetivos Profissionais
-
-- Atuar como desenvolvedor full-stack em projetos escaláveis  
-- Dominar arquiteturas modernas e microserviços  
-- Contribuir para projetos open source  
-- Aprimorar habilidades em testes, performance e segurança
-
+ 
+- Atuar como Analista SOC (Tier 1) monitorando e respondendo a incidentes de segurança
+- Aprofundar conhecimentos em SIEM, threat intelligence e análise forense
+- Obter certificações como CompTIA Security+ e Google Cybersecurity Certificate
+- Contribuir com projetos open source voltados à segurança ofensiva e defensiva
 ---
-
-## 📫 Contato
-
-- **Email:** opaulxs@gmail.com  
-- **LinkedIn:** [opaulxs](https://www.linkedin.com/in/opaulxs/)  
-- **GitHub:** [opaulxs](https://github.com/opaulxs)  
-- **Portfólio:** [portifoliopaulolima.vercel.app](https://portifoliopaulolima.vercel.app/)
-
+ 
+## 🎓 Certificações
+ 
+| Certificação | Plataforma | Status |
+|---|---|---|
+| Google Cybersecurity Certificate | Google / Coursera | 🔄 Em andamento |
+| Cursos de TI (Redes e Infraestrutura) | Plataformas online | ✅ Concluído |
+ 
 ---
-
-> "Código é a forma como transformamos ideias em realidade." 🚀
+ 
+## 📊 GitHub Stats
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=opaulxs&show_icons=true&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opaulxs&layout=compact&theme=github_dark&hide_border=true)
+ 
+---
+ 
+*"Security is a process, not a product." — Bruce Schneier*
 
